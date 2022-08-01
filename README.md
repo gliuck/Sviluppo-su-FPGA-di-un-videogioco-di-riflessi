@@ -1,3 +1,8 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white<SUBJECT>-<STATUS>-<COLOR>.svg)](https://www.linkedin.com/in/luca-lussu-8135a4139/)
+
+
+
 # Sviluppo-su-FPGA-di-un-videogioco-di-riflessi :joystick:
 In questo lavoro è analizzato il funzionamento e la realizzazione di un videogioco basato su FPGA. Delineati i requisiti si è partiti dalla divisione delle funzioni in sottosistemi. I componenti sono stati descritti in linguaggio VHDL, testati e modificati fino a renderli funzionanti ed infine integrati nel progetto.
 
